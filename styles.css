@@ -1,4 +1,6 @@
 /* add styling to index.html */
+/* import font family from google */
+@import url('https://fonts.googleapis.com/css?family=Poppins:700|Poppins:400');
 
 * {
     font-family: 'Georgia', serif;
