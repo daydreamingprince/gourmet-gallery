@@ -2,6 +2,10 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:700|Poppins:400');
 
 * {
+    /* they say it's a good practice to set margin and padding to 0 to reset it 
+    but add it to the universal selector to avoid specificity issues*/
+    margin: 0;
+    padding: 0;
     background-color: #fdfbfa;
     color: #19120d;
 }
