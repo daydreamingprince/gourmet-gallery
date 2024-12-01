@@ -6,6 +6,7 @@
     but add it to the universal selector to avoid specificity issues*/
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
     background-color: #fdfbfa;
     color: #19120d;
 }
