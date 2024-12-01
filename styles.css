@@ -2,10 +2,16 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:700|Poppins:400');
 
 * {
-    text-decoration: none;
     background-color: #fdfbfa;
     color: #19120d;
 }
+
+a {
+    text-decoration: none;
+}
+
+
+/* font styling declarations */
 
 body {
     font-family: 'Poppins';
