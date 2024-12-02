@@ -49,6 +49,15 @@
     align-items: center;
 }
 
+.recipe-container {
+    color: #18110c;
+    background-color: #fefcfb;
+    display: flex;
+    justify-content: center;
+}
+
+
+
 /* font styling declarations */
 
 body {
